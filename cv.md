@@ -2,6 +2,7 @@
 
 Junior Web Developer
 
+
 ## Personal info
 * Age: 31
 * Location: Belarus, Borisov
@@ -10,12 +11,14 @@ Junior Web Developer
 ## Contact info
 * E-mail: [pavlovetstatyana@gmail.com](pavlovetstatyana@gmail.com)
 * Github: [tatafox](https://github.com/tatafox)
+* +375 (29) 251-94-41
 
 
 ## Summary
 I have been a freelance UI / UX designer for 4 years.
 Now I want to become a web developer, so I am learning HTML5, CSS3 and JavaScript.
 My goal is to find a remote job or continue working as a freelancer
+
 
 ## Skills
 ### Design skills
